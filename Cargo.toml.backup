@@ -1,6 +1,6 @@
 [package]
 
-name = "cs_mwc_secp256k1zkp"
+name = "mwc_secp256k1zkp"
 version = "0.7.16"
 authors = [ "Mwc Developers <mimblewimble@lists.launchpad.net>",
             "Dawid Ciężarkiewicz <dpc@ucore.info>",
@@ -9,7 +9,7 @@ license = "CC0-1.0"
 homepage = "https://mwc.mw"
 repository = "https://github.com/mwcproject/rust-secp256k1-zkp/"
 description = "Mwc's fork with Zero-Knowledge extensions of Rust bindings for Pieter Wuille's `libsecp256k1` library. Implements ECDSA for the SECG elliptic curve group secp256k1 and related utilities."
-keywords = [ "crypto", "secp256k1", "cs_mwc", "bitcoin", "zero-knowledge"]
+keywords = [ "crypto", "secp256k1", "mwc", "bitcoin", "zero-knowledge"]
 readme = "README.md"
 edition = "2018"
 
